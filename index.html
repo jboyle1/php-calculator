@@ -8,20 +8,20 @@
     </head>
     <body>
         <h3>Addition</h3>
-        <form method="get" action="addition.php">
+        <form action="addition.php" method="get">
             <label>First Number:</label>
-            <input type="number"><br>
+            <input type="number" name="add_first"><br>
             <label>Second Number:</label>
-            <input type="number"><br>
+            <input type="number" name="add_second"><br>
             <button type="submit">Add</button><br>
         </form>
         <h3>Division</h3>
-        <form method="get" action="division.php">
+        <form action="division.php" method="get">
             <label>Numerator:</label>
-            <input type="number"><br>
-        </label>Denominator:</label>
-    <input type="number"><br>
-    <button type="submit">Divide</button><br>
-</form>
-</body>
+            <input type="number" name="div_num"><br>
+            <label>Denominator:</label>
+            <input type="number" name="div_den"><br>
+            <button type="submit">Divide</button><br>
+        </form>
+    </body>
 </html>
