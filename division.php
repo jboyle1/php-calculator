@@ -1,6 +1,6 @@
 <html>
 <body>
 
-<a href="index.php">Reset</a>
+<a href="index.html">Reset</a>
 </body>
 </html>
