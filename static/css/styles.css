@@ -1,2 +1,10 @@
+/* Header */
 
-
+#title {
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+    font-size: 40px;
+    padding: 30px 30px;
+    background-color: #000;
+    color: #ffffff;
+}
