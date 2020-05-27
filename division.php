@@ -22,7 +22,7 @@
                     <h3><?="Dividing ${_GET['div_num']} by ${_GET['div_den']} equals:"?></h3>
                 </div>
                 <div id="answer">
-                    <h3><?=$_GET['div_num']+$_GET['div_den'];?></h3>
+                    <h3><?=$_GET['div_num']/$_GET['div_den'];?></h3>
                 </div>
                 </section>
                 <section>
