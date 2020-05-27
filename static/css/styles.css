@@ -8,3 +8,56 @@
     background-color: #000;
     color: #ffffff;
 }
+
+/* /Header */
+
+/* Main */
+
+#calculator_area {
+    margin-top: 30px;
+}
+
+h3 {
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px 30px;
+    color: #000;
+    text-decoration: none;
+}
+
+hr {
+    width: 60px;
+    margin: 30px  auto;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+/* /Main */
+
+/* Form */
+
+#form_add, #form_divide {
+    text-align: center;
+    margin: auto;
+    margin-top: -5px;
+}
+
+input {
+    margin: 5px 5px;
+}
+
+button {
+    margin: 5px 5px;
+    background-color: #000;
+    font-family: 'Share Tech Mono', monospace;
+    color: #ffffff;
+}
+
+/* /Form */
+
